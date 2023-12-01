@@ -16,10 +16,7 @@
 table {
   border: 2px solid cornflowerblue;
   border-radius: 3%;
-  margin-left: 150px;
-  margin-right: 150px;
-  margint-top: 80px;
-  margin-bottom: 80px;
+  margin: 150px auto;
 }
 
 th {
