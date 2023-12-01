@@ -16,7 +16,9 @@
 table {
   border: 2px solid cornflowerblue;
   border-radius: 3%;
-  margin: 150px;
+  width: auto;
+  height: auto;
+  margin: auto;
 }
 
 th {
