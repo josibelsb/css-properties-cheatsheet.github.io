@@ -16,8 +16,7 @@
 table {
   border: 2px solid cornflowerblue;
   border-radius: 3%;
-  display: table;
-  float: right;
+  margin: 125px auto;
 }
 th {
   border: 1px solid cornflowerblue;
