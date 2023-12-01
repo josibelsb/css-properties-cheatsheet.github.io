@@ -1,0 +1,32 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: aliceblue;
+}
+
+.page-title {
+  text-align: center;
+  color: blueviolet;
+}
+
+.table-headings {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+table {
+  border: 2px solid cornflowerblue;
+  border-radius: 3%;
+}
+th {
+  border: 1px solid cornflowerblue;
+  color: blueviolet;
+}
+td {
+  border: 1px solid cornflowerblue;
+  color: plum;
+}
+
+.name {
+  font-weight: bold;
+  color: orchid;
+}
